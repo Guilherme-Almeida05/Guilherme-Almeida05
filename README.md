@@ -31,9 +31,8 @@ Sou um desenvolvedor apaixonado por tecnologia e resolução de problemas. Atual
 
 ## 🔗 Conecte-se comigo
 <div align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="www.linkedin.com/in/guilherme-de-almeida-amorim-747a78317style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+  <a <a href="https://linkedin.com/in/www.linkedin.com/in/guilherme-de-almeida-amorim-747a78317" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <a href="mailto:SEU_EMAIL" target="_blank">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
