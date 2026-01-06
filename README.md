@@ -3,11 +3,10 @@
 ## 🚀 Sobre Mim
 Sou um desenvolvedor apaixonado por tecnologia e resolução de problemas. Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento de software e projetos open source.
 
-* 🎓 Cursando **[Seu Curso/Faculdade]**
-* 💼 Trabalhando atualmente como **[Seu Cargo]** (ou "Em busca de oportunidades")
-* 🌱 Estudando atualmente: **[Tecnologia que você está aprendendo]**
-* 💬 Pergunte-me sobre: **[Assuntos que você domina]**
-* 📫 Como me encontrar: **[seu-email@exemplo.com]**
+* 🎓 Cursando Análise e desenvolvimento de sistemas
+* 💼 Trabalhando atualmente como Analista de Rede
+* 🌱 Estudando atualmente: Linguagens de programação
+* 📫 Como me encontrar: amorimguilherme007@gmail.com
 
 ---
 
